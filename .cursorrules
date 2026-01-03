@@ -1,0 +1,28 @@
+# Yaseen Website - Cursor Configuration
+
+This is a React + Vite project for a personal digital assistant website.
+
+## Project Structure
+- React 19 with JSX
+- Vite build tool (using rolldown-vite)
+- React Router for client-side routing
+- Component-based architecture with pages/ and components/ directories
+- CSS modules for styling
+
+## Code Style
+- Use functional components with hooks
+- Follow React best practices
+- Mobile-first responsive design
+- Clean, modern UI with neutral color palette
+
+## Key Files
+- `src/App.jsx` - Main app component with routing
+- `src/pages/` - Page components (Home, Services, About, Contact, etc.)
+- `src/components/` - Reusable components (Header, Footer)
+- `src/index.css` - Global styles and CSS variables
+
+## Import Patterns
+- Use relative imports for local files
+- React Router components: `import { Link, useLocation } from 'react-router-dom'`
+- CSS imports: `import './ComponentName.css'`
+
