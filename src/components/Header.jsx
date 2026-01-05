@@ -50,6 +50,13 @@ function Header() {
               Services
             </Link>
             <Link 
+              to="/work" 
+              className={isActive('/work') ? 'active' : ''}
+              onClick={closeMenu}
+            >
+              Work
+            </Link>
+            <Link 
               to="/how-i-work" 
               className={isActive('/how-i-work') ? 'active' : ''}
               onClick={closeMenu}
