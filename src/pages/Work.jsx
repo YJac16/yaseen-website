@@ -57,6 +57,27 @@ function Work() {
                 </a>
               </div>
             </div>
+
+            <div className="studio-card">
+              <div className="studio-header">
+                <h2>KhayrCape Experiences</h2>
+                <span className="studio-badge">Tourism Website</span>
+              </div>
+              <p className="studio-description">
+                A tourism website showcasing experiences and destinations.
+              </p>
+              <div className="studio-link">
+                <a 
+                  href="https://khayrcape-experiences.com" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="btn btn-primary"
+                >
+                  Visit KhayrCape Experiences
+                  <span className="link-icon">↗</span>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
