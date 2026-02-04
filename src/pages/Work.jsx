@@ -68,7 +68,7 @@ function Work() {
               </p>
               <div className="studio-link">
                 <a 
-                  href="https://khayrcape-experiences.com" 
+                  href="https://yj-private-tours.vercel.app/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn btn-primary"
