@@ -78,6 +78,27 @@ function Work() {
                 </a>
               </div>
             </div>
+
+            <div className="studio-card">
+              <div className="studio-header">
+                <h2>Quran Learning Tracker</h2>
+                <span className="studio-badge">Learning App</span>
+              </div>
+              <p className="studio-description">
+                A daily tracker for root words, Names of Allah, ayah reading, and reflection—built to help you stay consistent.
+              </p>
+              <div className="studio-link">
+                <a 
+                  href="https://quran-learning-tracker.vercel.app/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="btn btn-primary"
+                >
+                  Visit Quran Learning Tracker
+                  <span className="link-icon">↗</span>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
