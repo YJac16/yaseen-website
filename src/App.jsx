@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import FloatingActions from './components/FloatingActions'
 import Home from './pages/Home'
 import Services from './pages/Services'
 import About from './pages/About'
@@ -27,6 +28,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <FloatingActions />
       </div>
     </BrowserRouter>
   )
