@@ -26,7 +26,7 @@ function Work() {
               </p>
               <div className="studio-link">
                 <a 
-                  href="https://nuriya-studio-production.up.railway.app/" 
+                  href="https://nuriyastudios.com" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn btn-primary"
@@ -47,7 +47,7 @@ function Work() {
               </p>
               <div className="studio-link">
                 <a 
-                  href="https://athariq-production.up.railway.app/" 
+                  href="https://athariqgames.com" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn btn-primary"
